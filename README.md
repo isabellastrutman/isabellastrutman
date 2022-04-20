@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isabellastrutman
 - 👀 I’m interested in mostly game development centered projects. 
 - 🌱 I’m currently learning the language C# and all of it's ins and outs. 
-- 💞️ I’m looking to collaborate on a some sort of interactive experience. I've always wanted to work with a small group of people with somthing as in depth as a game.
+- 💞️ I’m looking to collaborate on a some sort of interactive experience. I've always wanted to work with a small group of people on somthing as in depth as a game.
 - 📫 How to reach me: You can email me at isabellastrutman@gmail.com
 
 <!---
